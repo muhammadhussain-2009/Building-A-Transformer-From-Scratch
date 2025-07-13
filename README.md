@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/github/languages/top/muhammadhussain-2009/Building-A-Transformer-From-Scratch?style=flat&color=0080ff" alt="repo-top-language">
 <img src="https://img.shields.io/github/languages/count/muhammadhussain-2009/Building-A-Transformer-From-Scratch?style=flat&color=0080ff" alt="repo-language-count">
 
-<em>Built with the tools and technologies:</em>
+<em>Built with the tools and technologies:Python, Jupyter Notebook, Tensorflow, Pytorch, </em>
 
 <img src="https://img.shields.io/badge/Markdown-000000.svg?style=flat&logo=Markdown&logoColor=white" alt="Markdown">
 
@@ -34,7 +34,6 @@
 - [Features](#features)
 - [Project Structure](#project-structure)
     - [Project Index](#project-index)
-- [Roadmap](#roadmap)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -145,33 +144,7 @@ Build Building-A-Transformer-From-Scratch from the source and install dependenci
     ```sh
     ❯ cd Building-A-Transformer-From-Scratch
     ```
-
-3. **Install the dependencies:**
-
-echo 'INSERT-INSTALL-COMMAND-HERE'
-
-### Usage
-
-Run the project with:
-
-echo 'INSERT-RUN-COMMAND-HERE'
-
-### Testing
-
-Building-a-transformer-from-scratch uses the {__test_framework__} test framework. Run the test suite with:
-
-echo 'INSERT-TEST-COMMAND-HERE'
-
----
-
-## Roadmap
-
-- [X] **`Task 1`**: <strike>Implement feature one.</strike>
-- [ ] **`Task 2`**: Implement feature two.
-- [ ] **`Task 3`**: Implement feature three.
-
----
-
+    
 ## Contributing
 
 - **💬 [Join the Discussions](https://github.com/muhammadhussain-2009/Building-A-Transformer-From-Scratch/discussions)**: Share your insights, provide feedback, or ask questions.
