@@ -52,6 +52,7 @@ This project aims to deepen understanding of transformer models by providing cle
 - **🔧** **Modular Design:** Easily extend or modify components to suit specific research or application needs.
 - **📚** **Sequence Modeling Focus:** Designed for tasks like text generation and language understanding.
 - **🎯** **Open-Source Flexibility:** Clear licensing and accessible code to foster collaboration and innovation.
+- **📃** **Interpretations Of Architecture**: Provided Clear explanations and visualisations of matrix operations involved in attention mechanisms and softmax function. Transformer Architecture has been explained with clarity and images in the above documents. 
 
 ---
 
@@ -127,7 +128,7 @@ This project aims to deepen understanding of transformer models by providing cle
 
 This project requires the following dependencies:
 
-- **Programming Language:** JupyterNotebook
+- **Programming Language:** Python, JupyterNotebook
 
 ### Installation
 
